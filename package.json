@@ -1,0 +1,33 @@
+{
+  "name": "Kashima-Bot",
+  "version": "1.4.0",
+  "description": "This-is-a-bot-based-from-this-URL-https://glitch.com/edit/#!/build-a-discord-bot-and-https://github.com/An-Idiots-Guide/guidebot/",
+  "main": "corekashima.js",
+  "scripts": {
+    "start": "node corekashima.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-Idiots-Guide/guidebot.git"
+  },
+  "author": "Saya",
+  "license": "MIT",
+  "homepage": "WIP",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "express": "^4.16.3",
+    "npm": "^5.8.0",
+    "simple-youtube-api": "^5.0.1",
+    "ytdl-core": "^0.20.2",
+    "ffmpeg": "^0.0.4",
+    "node-opus": "^0.2.7",
+    "osu": "^2.0.0",
+    "nekos.life": "^1.0.3",
+    "dblapi.js": "^2.0.0",
+    "enmap": "^2.1.0",
+    "enmap-sqlite": "^2.0.0"
+  }
+}
